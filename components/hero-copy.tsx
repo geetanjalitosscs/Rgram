@@ -20,25 +20,25 @@ export function HeroCopy() {
       </p>
 
       {/* Replace feature tags with app store and social media buttons */}
-      <div className="mt-6 md:mt-7 flex flex-wrap gap-3">
+      {/* <div className="mt-6 md:mt-7 flex flex-wrap gap-3">
         {/* Google Play Store */}
-        <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
+        {/* <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
           <img src="/images/google.jpg" alt="Google Play" className="h-6 w-6" />
           <span className="text-sm font-medium text-gray-700">Google Play</span>
-        </div>
+        </div> */}
         
         {/* Facebook */}
-        <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
+        {/* <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
           <img src="/images/facebook.jpg" alt="Facebook" className="h-6 w-6" />
           <span className="text-sm font-medium text-gray-700">Facebook</span>
-        </div>
+        </div> */}
         
         {/* iOS App Store */}
-        <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
+        {/* <div className="flex items-center gap-2 rounded-lg border border-gray-200 bg-white px-4 py-2 shadow-sm hover:shadow-md transition-shadow">
           <img src="/images/ios.jpg" alt="iOS App Store" className="h-6 w-6" />
           <span className="text-sm font-medium text-gray-700">iOS</span>
         </div>
-      </div>
+      </div> } */}
 
       {/* Replace placeholder badges with provided strip */}
       {/* Make badges a bit taller */}

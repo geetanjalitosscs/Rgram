@@ -4,9 +4,9 @@ export function RgramLogo({ className }: Props) {
   return (
     <div className={className}>
       <img 
-        src="/images/logo-rgram.png" 
+        src="/images/Logo.png" 
         alt="Rgram Logo" 
-        className="h-16 w-auto mx-auto"
+        className="h-30 w-auto mx-auto"
       />
     </div>
   )
